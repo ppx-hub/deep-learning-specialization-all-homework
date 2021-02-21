@@ -1,0 +1,9 @@
+Author: ccg
+
+本作业注意：
+(1) 2.1 - Create placeholders 中的 Expected Output: 
+X Tensor("Placeholder_1:0", shape=(12288, ?), dtype=float32) (not necessarily Placeholder_1)
+Y Tensor("Placeholder_2:0", shape=(10, ?), dtype=float32) (not necessarily Placeholder_2)
+其中，Y 应该是：
+Y Tensor("Placeholder_2:0", shape=(6, ?), dtype=float32) (not necessarily Placeholder_2)
+估计是原作者粗心错误。
