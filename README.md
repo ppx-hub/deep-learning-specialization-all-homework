@@ -10,3 +10,6 @@ The collation of other people's contribution
 
 **3. Quiz answer:**
 [deeplearning_ai_books](https://github.com/fengdu78/deeplearning_ai_books)
+
+**4. Chinese translation version:**
+[吴恩达《深度学习》作业线上版](https://zhuanlan.zhihu.com/p/95510114)
